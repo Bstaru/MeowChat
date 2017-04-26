@@ -1,0 +1,278 @@
+C:\Users\Base de Datos\Downloads\ClientPOI\ClientPOI\ClientPOI\bin\Debug\ClientPOI.exe
+C:\Users\Base de Datos\Downloads\ClientPOI\ClientPOI\ClientPOI\bin\Debug\ClientPOI.pdb
+C:\Users\Base de Datos\Downloads\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Base de Datos\Downloads\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.frmChat.resources
+C:\Users\Base de Datos\Downloads\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmLogin.resources
+C:\Users\Base de Datos\Downloads\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Properties.Resources.resources
+C:\Users\Base de Datos\Downloads\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Base de Datos\Downloads\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Base de Datos\Downloads\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.exe
+C:\Users\Base de Datos\Downloads\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.pdb
+C:\Users\equipo-12\Desktop\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.exe
+C:\Users\equipo-12\Desktop\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.csprojResolveAssemblyReference.cache
+C:\Users\equipo-12\Desktop\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.frmChat.resources
+C:\Users\equipo-12\Desktop\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmLogin.resources
+C:\Users\equipo-12\Desktop\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Properties.Resources.resources
+C:\Users\equipo-12\Desktop\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.csproj.GenerateResource.Cache
+C:\Users\equipo-12\Desktop\ClientPOI\ClientPOI\bin\Debug\ClientPOI.exe
+C:\Users\equipo-12\Desktop\ClientPOI\ClientPOI\bin\Debug\ClientPOI.pdb
+C:\Users\equipo-12\Desktop\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.pdb
+C:\Users\Equipo8\Downloads\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.exe
+C:\Users\Equipo8\Downloads\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.pdb
+C:\Users\Equipo8\Downloads\ClientPOI\ClientPOI\ClientPOI\bin\Debug\ClientPOI.exe
+C:\Users\Equipo8\Downloads\ClientPOI\ClientPOI\ClientPOI\bin\Debug\ClientPOI.pdb
+C:\Users\Equipo8\Downloads\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.csprojResolveAssemblyReference.cache
+C:\Users\Equipo8\Downloads\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.frmChat.resources
+C:\Users\Equipo8\Downloads\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmLogin.resources
+C:\Users\Equipo8\Downloads\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Properties.Resources.resources
+C:\Users\Equipo8\Downloads\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.csproj.GenerateResource.Cache
+C:\Users\Ale\Downloads\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.exe
+C:\Users\Ale\Downloads\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.pdb
+C:\Users\Ale\Downloads\ClientPOI\ClientPOI\ClientPOI\bin\Debug\ClientPOI.exe
+C:\Users\Ale\Downloads\ClientPOI\ClientPOI\ClientPOI\bin\Debug\ClientPOI.pdb
+C:\Users\Ale\Downloads\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.csprojResolveAssemblyReference.cache
+C:\Users\Ale\Downloads\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.frmChat.resources
+C:\Users\Ale\Downloads\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmLogin.resources
+C:\Users\Ale\Downloads\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Properties.Resources.resources
+C:\Users\Ale\Downloads\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.csproj.GenerateResource.Cache
+C:\Users\equipo-4\Desktop\ClientPOI\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.exe
+C:\Users\equipo-4\Desktop\ClientPOI\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.pdb
+C:\Users\equipo-4\Desktop\ClientPOI\ClientPOI\ClientPOI\ClientPOI\bin\Debug\ClientPOI.exe
+C:\Users\equipo-4\Desktop\ClientPOI\ClientPOI\ClientPOI\ClientPOI\bin\Debug\ClientPOI.pdb
+C:\Users\equipo-4\Desktop\ClientPOI\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.csprojResolveAssemblyReference.cache
+C:\Users\equipo-4\Desktop\ClientPOI\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.frmChat.resources
+C:\Users\equipo-4\Desktop\ClientPOI\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmLogin.resources
+C:\Users\equipo-4\Desktop\ClientPOI\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Properties.Resources.resources
+C:\Users\equipo-4\Desktop\ClientPOI\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.csproj.GenerateResource.Cache
+C:\Users\Jhudá López\Desktop\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.exe
+C:\Users\Jhudá López\Desktop\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.pdb
+C:\Users\Jhudá López\Desktop\ClientPOI\ClientPOI\bin\Debug\ClientPOI.exe
+C:\Users\Jhudá López\Desktop\ClientPOI\ClientPOI\bin\Debug\ClientPOI.pdb
+C:\Users\Jhudá López\Desktop\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.csprojResolveAssemblyReference.cache
+C:\Users\Jhudá López\Desktop\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.frmChat.resources
+C:\Users\Jhudá López\Desktop\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmLogin.resources
+C:\Users\Jhudá López\Desktop\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmMenu.resources
+C:\Users\Jhudá López\Desktop\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Properties.Resources.resources
+C:\Users\Jhudá López\Desktop\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.csproj.GenerateResource.Cache
+C:\Users\Jhudá López\Desktop\ClientPOI\ClientPOI\bin\Debug\en-US\ClientPOI.resources.dll
+C:\Users\Jhudá López\Desktop\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmMenu.en-US.resources
+C:\Users\Jhudá López\Desktop\ClientPOI\ClientPOI\obj\x86\Debug\en-US\ClientPOI.resources.dll
+C:\Users\JAVIERRDZ\Desktop\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.exe
+C:\Users\JAVIERRDZ\Desktop\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.pdb
+C:\Users\JAVIERRDZ\Desktop\ClientPOI\ClientPOI\bin\Debug\ClientPOI.exe
+C:\Users\JAVIERRDZ\Desktop\ClientPOI\ClientPOI\bin\Debug\ClientPOI.pdb
+C:\Users\JAVIERRDZ\Desktop\ClientPOI\ClientPOI\bin\Debug\en-US\ClientPOI.resources.dll
+C:\Users\JAVIERRDZ\Desktop\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.csprojResolveAssemblyReference.cache
+C:\Users\JAVIERRDZ\Desktop\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.frmChat.resources
+C:\Users\JAVIERRDZ\Desktop\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmLogin.resources
+C:\Users\JAVIERRDZ\Desktop\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmMenu.resources
+C:\Users\JAVIERRDZ\Desktop\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Properties.Resources.resources
+C:\Users\JAVIERRDZ\Desktop\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmMenu.en-US.resources
+C:\Users\JAVIERRDZ\Desktop\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.csproj.GenerateResource.Cache
+C:\Users\JAVIERRDZ\Desktop\ClientPOI\ClientPOI\obj\x86\Debug\en-US\ClientPOI.resources.dll
+C:\Users\Aimee\Desktop\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.exe
+C:\Users\Aimee\Desktop\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.pdb
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\codigo\poi\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.exe
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\codigo\poi\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.pdb
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\codigo\poi\ClientPOI\ClientPOI\bin\Debug\ClientPOI.exe
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\codigo\poi\ClientPOI\ClientPOI\bin\Debug\ClientPOI.pdb
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\codigo\poi\ClientPOI\ClientPOI\bin\Debug\en-US\ClientPOI.resources.dll
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\codigo\poi\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\codigo\poi\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.frmChat.resources
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\codigo\poi\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmLogin.resources
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\codigo\poi\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmMenu.resources
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\codigo\poi\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Properties.Resources.resources
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\codigo\poi\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmMenu.en-US.resources
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\codigo\poi\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\codigo\poi\ClientPOI\ClientPOI\obj\x86\Debug\en-US\ClientPOI.resources.dll
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\codigo\poi\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmMenuChat.resources
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\codigo\poi\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.exe
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\codigo\poi\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\codigo\poi\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.frmChat.resources
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\codigo\poi\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmLogin.resources
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\codigo\poi\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmMenu.resources
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\codigo\poi\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmMenuChat.resources
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\codigo\poi\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Properties.Resources.resources
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\codigo\poi\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmMenu.en-US.resources
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\codigo\poi\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\codigo\poi\ClientPOI\ClientPOI\bin\Debug\ClientPOI.exe
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\codigo\poi\ClientPOI\ClientPOI\bin\Debug\ClientPOI.pdb
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\codigo\poi\ClientPOI\ClientPOI\bin\Debug\en-US\ClientPOI.resources.dll
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\codigo\poi\ClientPOI\ClientPOI\obj\x86\Debug\en-US\ClientPOI.resources.dll
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\codigo\poi\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.pdb
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\poi\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.exe
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\poi\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.pdb
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\poi\ClientPOI\ClientPOI\bin\Debug\ClientPOI.exe
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\poi\ClientPOI\ClientPOI\bin\Debug\ClientPOI.pdb
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\poi\ClientPOI\ClientPOI\bin\Debug\en-US\ClientPOI.resources.dll
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\poi\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\poi\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.frmChat.resources
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\poi\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmLogin.resources
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\poi\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmMenu.resources
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\poi\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmMenuChat.resources
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\poi\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Properties.Resources.resources
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\poi\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmMenu.en-US.resources
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\poi\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\poi\ClientPOI\ClientPOI\obj\x86\Debug\en-US\ClientPOI.resources.dll
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\proyecto\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.exe
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\proyecto\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.pdb
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\proyecto\ClientPOI\ClientPOI\bin\Debug\ClientPOI.exe
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\proyecto\ClientPOI\ClientPOI\bin\Debug\ClientPOI.pdb
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\proyecto\ClientPOI\ClientPOI\bin\Debug\en-US\ClientPOI.resources.dll
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\proyecto\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\proyecto\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.frmChat.resources
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\proyecto\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmLogin.resources
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\proyecto\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmMenu.resources
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\proyecto\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmMenuChat.resources
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\proyecto\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Properties.Resources.resources
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\proyecto\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmMenu.en-US.resources
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\proyecto\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\.1) Facu\5.2 Sem\POI\Proyecto\proyecto\ClientPOI\ClientPOI\obj\x86\Debug\en-US\ClientPOI.resources.dll
+C:\Users\Usuario\Documents\.1) Facu\5.2to Sem\POI\Proyecto\proyecto\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.exe
+C:\Users\Usuario\Documents\.1) Facu\5.2to Sem\POI\Proyecto\proyecto\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.pdb
+C:\Users\Usuario\Documents\.1) Facu\5.2to Sem\POI\Proyecto\proyecto\ClientPOI\ClientPOI\bin\Debug\ClientPOI.exe
+C:\Users\Usuario\Documents\.1) Facu\5.2to Sem\POI\Proyecto\proyecto\ClientPOI\ClientPOI\bin\Debug\ClientPOI.pdb
+C:\Users\Usuario\Documents\.1) Facu\5.2to Sem\POI\Proyecto\proyecto\ClientPOI\ClientPOI\bin\Debug\en-US\ClientPOI.resources.dll
+C:\Users\Usuario\Documents\.1) Facu\5.2to Sem\POI\Proyecto\proyecto\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\.1) Facu\5.2to Sem\POI\Proyecto\proyecto\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.frmChat.resources
+C:\Users\Usuario\Documents\.1) Facu\5.2to Sem\POI\Proyecto\proyecto\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmLogin.resources
+C:\Users\Usuario\Documents\.1) Facu\5.2to Sem\POI\Proyecto\proyecto\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmMenu.resources
+C:\Users\Usuario\Documents\.1) Facu\5.2to Sem\POI\Proyecto\proyecto\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmMenuChat.resources
+C:\Users\Usuario\Documents\.1) Facu\5.2to Sem\POI\Proyecto\proyecto\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Properties.Resources.resources
+C:\Users\Usuario\Documents\.1) Facu\5.2to Sem\POI\Proyecto\proyecto\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmMenu.en-US.resources
+C:\Users\Usuario\Documents\.1) Facu\5.2to Sem\POI\Proyecto\proyecto\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\.1) Facu\5.2to Sem\POI\Proyecto\proyecto\ClientPOI\ClientPOI\obj\x86\Debug\en-US\ClientPOI.resources.dll
+D:\Archivos\POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.exe
+D:\Archivos\POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.pdb
+D:\Archivos\POI\ClientPOI\ClientPOI\bin\Debug\ClientPOI.exe
+D:\Archivos\POI\ClientPOI\ClientPOI\bin\Debug\ClientPOI.pdb
+D:\Archivos\POI\ClientPOI\ClientPOI\bin\Debug\en-US\ClientPOI.resources.dll
+D:\Archivos\POI\ClientPOI\ClientPOI\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Archivos\POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.frmChat.resources
+D:\Archivos\POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmLogin.resources
+D:\Archivos\POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmMenu.resources
+D:\Archivos\POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmMenuChat.resources
+D:\Archivos\POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Properties.Resources.resources
+D:\Archivos\POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmMenu.en-US.resources
+D:\Archivos\POI\ClientPOI\ClientPOI\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Archivos\POI\ClientPOI\ClientPOI\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Archivos\POI\ClientPOI\ClientPOI\obj\x86\Debug\en-US\ClientPOI.resources.dll
+C:\Users\Usuario\Desktop\POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.exe
+C:\Users\Usuario\Desktop\POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.pdb
+C:\Users\Usuario\Desktop\POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.frmChat.resources
+C:\Users\Usuario\Desktop\POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmLogin.resources
+C:\Users\Usuario\Desktop\POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmMenu.resources
+C:\Users\Usuario\Desktop\POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmMenuChat.resources
+C:\Users\Usuario\Desktop\POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Properties.Resources.resources
+C:\Users\Usuario\Desktop\POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmMenu.en-US.resources
+C:\Users\Usuario\Desktop\POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\POI\ClientPOI\ClientPOI\bin\Debug\ClientPOI.exe
+C:\Users\Usuario\Desktop\POI\ClientPOI\ClientPOI\bin\Debug\ClientPOI.pdb
+C:\Users\Usuario\Desktop\POI\ClientPOI\ClientPOI\bin\Debug\en-US\ClientPOI.resources.dll
+C:\Users\Usuario\Desktop\POI\ClientPOI\ClientPOI\obj\x86\Debug\en-US\ClientPOI.resources.dll
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.exe
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.pdb
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\POI\ClientPOI\ClientPOI\bin\Debug\ClientPOI.exe
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\POI\ClientPOI\ClientPOI\bin\Debug\ClientPOI.pdb
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\POI\ClientPOI\ClientPOI\bin\Debug\en-US\ClientPOI.resources.dll
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.csprojResolveAssemblyReference.cache
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.frmChat.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmLogin.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmMenu.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Properties.Resources.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmMenu.en-US.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.csproj.GenerateResource.Cache
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\POI\ClientPOI\ClientPOI\obj\x86\Debug\en-US\ClientPOI.resources.dll
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmCamara.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmGame.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.pdb
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI\ClientPOI\bin\Debug\ClientPOI.exe
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI\ClientPOI\bin\Debug\ClientPOI.pdb
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI\ClientPOI\bin\Debug\en-US\ClientPOI.resources.dll
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmCamara.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmGame.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmLogin.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmMenu.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Properties.Resources.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmMenu.en-US.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.csproj.GenerateResource.Cache
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI\ClientPOI\obj\x86\Debug\en-US\ClientPOI.resources.dll
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.exe
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmCorreo.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmFriends.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmNoti.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.csprojResolveAssemblyReference.cache
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmShatt.resources
+C:\Users\JoséAlfredo\Desktop\LMAD\5.9 Semestre\Programacion Orientada a Internet\Proyecto final\Ahora si proyecto final porque tiene el juego o casi XD\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.exe
+C:\Users\JoséAlfredo\Desktop\LMAD\5.9 Semestre\Programacion Orientada a Internet\Proyecto final\Ahora si proyecto final porque tiene el juego o casi XD\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.pdb
+C:\Users\JoséAlfredo\Desktop\LMAD\5.9 Semestre\Programacion Orientada a Internet\Proyecto final\Ahora si proyecto final porque tiene el juego o casi XD\ClientPOI\ClientPOI\bin\Debug\ClientPOI.exe
+C:\Users\JoséAlfredo\Desktop\LMAD\5.9 Semestre\Programacion Orientada a Internet\Proyecto final\Ahora si proyecto final porque tiene el juego o casi XD\ClientPOI\ClientPOI\bin\Debug\ClientPOI.pdb
+C:\Users\JoséAlfredo\Desktop\LMAD\5.9 Semestre\Programacion Orientada a Internet\Proyecto final\Ahora si proyecto final porque tiene el juego o casi XD\ClientPOI\ClientPOI\bin\Debug\en-US\ClientPOI.resources.dll
+C:\Users\JoséAlfredo\Desktop\LMAD\5.9 Semestre\Programacion Orientada a Internet\Proyecto final\Ahora si proyecto final porque tiene el juego o casi XD\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.csprojResolveAssemblyReference.cache
+C:\Users\JoséAlfredo\Desktop\LMAD\5.9 Semestre\Programacion Orientada a Internet\Proyecto final\Ahora si proyecto final porque tiene el juego o casi XD\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmCamara.resources
+C:\Users\JoséAlfredo\Desktop\LMAD\5.9 Semestre\Programacion Orientada a Internet\Proyecto final\Ahora si proyecto final porque tiene el juego o casi XD\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmCorreo.resources
+C:\Users\JoséAlfredo\Desktop\LMAD\5.9 Semestre\Programacion Orientada a Internet\Proyecto final\Ahora si proyecto final porque tiene el juego o casi XD\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmFriends.resources
+C:\Users\JoséAlfredo\Desktop\LMAD\5.9 Semestre\Programacion Orientada a Internet\Proyecto final\Ahora si proyecto final porque tiene el juego o casi XD\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmGame.resources
+C:\Users\JoséAlfredo\Desktop\LMAD\5.9 Semestre\Programacion Orientada a Internet\Proyecto final\Ahora si proyecto final porque tiene el juego o casi XD\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmLogin.resources
+C:\Users\JoséAlfredo\Desktop\LMAD\5.9 Semestre\Programacion Orientada a Internet\Proyecto final\Ahora si proyecto final porque tiene el juego o casi XD\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmMenu.resources
+C:\Users\JoséAlfredo\Desktop\LMAD\5.9 Semestre\Programacion Orientada a Internet\Proyecto final\Ahora si proyecto final porque tiene el juego o casi XD\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmNoti.resources
+C:\Users\JoséAlfredo\Desktop\LMAD\5.9 Semestre\Programacion Orientada a Internet\Proyecto final\Ahora si proyecto final porque tiene el juego o casi XD\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmShatt.resources
+C:\Users\JoséAlfredo\Desktop\LMAD\5.9 Semestre\Programacion Orientada a Internet\Proyecto final\Ahora si proyecto final porque tiene el juego o casi XD\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Properties.Resources.resources
+C:\Users\JoséAlfredo\Desktop\LMAD\5.9 Semestre\Programacion Orientada a Internet\Proyecto final\Ahora si proyecto final porque tiene el juego o casi XD\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmMenu.en-US.resources
+C:\Users\JoséAlfredo\Desktop\LMAD\5.9 Semestre\Programacion Orientada a Internet\Proyecto final\Ahora si proyecto final porque tiene el juego o casi XD\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.csproj.GenerateResource.Cache
+C:\Users\JoséAlfredo\Desktop\LMAD\5.9 Semestre\Programacion Orientada a Internet\Proyecto final\Ahora si proyecto final porque tiene el juego o casi XD\ClientPOI\ClientPOI\obj\x86\Debug\en-US\ClientPOI.resources.dll
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI - 4nov2016 6pm\ClientPOI\obj\x86\Debug\ClientPOI.exe
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI - 4nov2016 6pm\ClientPOI\obj\x86\Debug\ClientPOI.pdb
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI - 4nov2016 6pm\ClientPOI\bin\Debug\ClientPOI.exe
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI - 4nov2016 6pm\ClientPOI\bin\Debug\ClientPOI.pdb
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI - 4nov2016 6pm\ClientPOI\bin\Debug\en-US\ClientPOI.resources.dll
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI - 4nov2016 6pm\ClientPOI\obj\x86\Debug\ClientPOI.csprojResolveAssemblyReference.cache
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI - 4nov2016 6pm\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmCamara.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI - 4nov2016 6pm\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmCorreo.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI - 4nov2016 6pm\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmFriends.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI - 4nov2016 6pm\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmGame.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI - 4nov2016 6pm\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmLogin.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI - 4nov2016 6pm\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmMenu.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI - 4nov2016 6pm\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmNoti.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI - 4nov2016 6pm\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmShatt.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI - 4nov2016 6pm\ClientPOI\obj\x86\Debug\ClientPOI.Properties.Resources.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI - 4nov2016 6pm\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmMenu.en-US.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI - 4nov2016 6pm\ClientPOI\obj\x86\Debug\ClientPOI.csproj.GenerateResource.Cache
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI - 4nov2016 6pm\ClientPOI\obj\x86\Debug\en-US\ClientPOI.resources.dll
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI - 4nov2016 7pm\ClientPOI\obj\x86\Debug\ClientPOI.exe
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI - 4nov2016 7pm\ClientPOI\obj\x86\Debug\ClientPOI.pdb
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI - 4nov2016 7pm\ClientPOI\bin\Debug\ClientPOI.exe
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI - 4nov2016 7pm\ClientPOI\bin\Debug\ClientPOI.pdb
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI - 4nov2016 7pm\ClientPOI\bin\Debug\en-US\ClientPOI.resources.dll
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI - 4nov2016 7pm\ClientPOI\obj\x86\Debug\ClientPOI.csprojResolveAssemblyReference.cache
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI - 4nov2016 7pm\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmCamara.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI - 4nov2016 7pm\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmCorreo.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI - 4nov2016 7pm\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmFriends.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI - 4nov2016 7pm\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmGame.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI - 4nov2016 7pm\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmLogin.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI - 4nov2016 7pm\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmMenu.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI - 4nov2016 7pm\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmNoti.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI - 4nov2016 7pm\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmShatt.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI - 4nov2016 7pm\ClientPOI\obj\x86\Debug\ClientPOI.Properties.Resources.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI - 4nov2016 7pm\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmMenu.en-US.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI - 4nov2016 7pm\ClientPOI\obj\x86\Debug\ClientPOI.csproj.GenerateResource.Cache
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOI - 4nov2016 7pm\ClientPOI\obj\x86\Debug\en-US\ClientPOI.resources.dll
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOICasi\ClientPOI\obj\x86\Debug\ClientPOI.exe
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOICasi\ClientPOI\obj\x86\Debug\ClientPOI.pdb
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOICasi\ClientPOI\bin\Debug\ClientPOI.exe
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOICasi\ClientPOI\bin\Debug\ClientPOI.pdb
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOICasi\ClientPOI\bin\Debug\en-US\ClientPOI.resources.dll
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOICasi\ClientPOI\obj\x86\Debug\ClientPOI.csprojResolveAssemblyReference.cache
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOICasi\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmCamara.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOICasi\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmCorreo.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOICasi\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmFriends.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOICasi\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmGame.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOICasi\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmLogin.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOICasi\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmMenu.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOICasi\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmNoti.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOICasi\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmShatt.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOICasi\ClientPOI\obj\x86\Debug\ClientPOI.Properties.Resources.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOICasi\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmMenu.en-US.resources
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOICasi\ClientPOI\obj\x86\Debug\ClientPOI.csproj.GenerateResource.Cache
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\ClientPOICasi\ClientPOI\obj\x86\Debug\en-US\ClientPOI.resources.dll

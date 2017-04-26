@@ -1,0 +1,409 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0EE3F7C9-6A65-42AB-ABE6-F89699479282}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ClientPOI</RootNamespace>
+    <AssemblyName>ClientPOI</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge.Video, Version=2.2.5.0, Culture=neutral, PublicKeyToken=cbfb6e07d173c401, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow, Version=2.2.5.0, Culture=neutral, PublicKeyToken=61ea4348d43881b7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forms\Cifrado.cs" />
+    <Compile Include="Forms\frmCamara.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmCamara.Designer.cs">
+      <DependentUpon>frmCamara.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmCorreo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmCorreo.Designer.cs">
+      <DependentUpon>frmCorreo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmFriends.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmFriends.Designer.cs">
+      <DependentUpon>frmFriends.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmGame.Designer.cs">
+      <DependentUpon>frmGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLogin.designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMenu.Designer.cs">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmNoti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmNoti.Designer.cs">
+      <DependentUpon>frmNoti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmShatt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmShatt.Designer.cs">
+      <DependentUpon>frmShatt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FW\Enums.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SERVER\Server.cs" />
+    <Compile Include="USER\User.cs" />
+    <EmbeddedResource Include="Forms\frmCamara.resx">
+      <DependentUpon>frmCamara.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmCorreo.resx">
+      <DependentUpon>frmCorreo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmFriends.resx">
+      <DependentUpon>frmFriends.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmGame.resx">
+      <DependentUpon>frmGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMenu.en-US.resx">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMenu.resx">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmNoti.resx">
+      <DependentUpon>frmNoti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmShatt.resx">
+      <DependentUpon>frmShatt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconos\zoo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconos\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconos\usuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconos\contraseña.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconos\amigos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconos\calendario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconos\chat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconos\configuracion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconos\correo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconos\documentos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconos\ESE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconos\folder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconos\foto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconos\maestro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconos\notificaciones.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconos\tareas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconos\falls.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wut.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boring.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cool.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dead.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dosV.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JA.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\komo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monkey1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monkey2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monkey3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\moon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\noahora.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nya.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pandilla.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quepasa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\totty.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vamo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\we.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\whats.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\when.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\why.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\woff.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wow.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\video.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\campana.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\config.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contra.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\email.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\karahue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meowchat_logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\todoroki.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\u.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paws.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CRUZ.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CIRCULO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jejcaaat.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGROS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGROS1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\u-cat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emojis\triste.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emojis\alegre.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emojis\amorsh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emojis\DIO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emojis\dosV.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emojis\ekisde.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emojis\ekispe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emojis\enojado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emojis\feliz.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emojis\jum.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emojis\lengua.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emojis\lennyface.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emojis\llorar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emojis\masenojado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emojis\poop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emojis\susto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emojis\alegre1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\buzz.png" />
+    <None Include="Resources\frame.png" />
+    <None Include="Resources\mail.png" />
+    <None Include="Resources\gamo.png" />
+    <None Include="Resources\reloj.png" />
+    <None Include="Resources\buzz_1.wav" />
+    <None Include="Resources\buzzz.png" />
+    <None Include="Resources\chatgrupal.png" />
+    <None Include="Resources\camaraa.png" />
+    <None Include="Resources\chat.png" />
+    <Content Include="Resources\chatuno.png" />
+    <None Include="Resources\nuevaCuenta.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

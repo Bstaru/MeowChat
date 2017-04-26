@@ -1,0 +1,7 @@
+MI CEL IP
+
+no modem	192.168.1.66
+modem 		10.52.211.128
+
+el de mi jaus
+192.168.1.70

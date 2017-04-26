@@ -1,0 +1,13 @@
+c:\users\black\documents\visual studio 2015\Projects\Server_POI\Server_POI\bin\Debug\Server_POI.exe.config
+c:\users\black\documents\visual studio 2015\Projects\Server_POI\Server_POI\bin\Debug\Server_POI.exe
+c:\users\black\documents\visual studio 2015\Projects\Server_POI\Server_POI\bin\Debug\Server_POI.pdb
+c:\users\black\documents\visual studio 2015\Projects\Server_POI\Server_POI\obj\Debug\Server_POI.csprojResolveAssemblyReference.cache
+c:\users\black\documents\visual studio 2015\Projects\Server_POI\Server_POI\obj\Debug\Server_POI.exe
+c:\users\black\documents\visual studio 2015\Projects\Server_POI\Server_POI\obj\Debug\Server_POI.pdb
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\Server_POI\Server_POI\bin\Debug\Server_POI.exe.config
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\Server_POI\Server_POI\bin\Debug\Server_POI.exe
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\Server_POI\Server_POI\bin\Debug\Server_POI.pdb
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\Server_POI\Server_POI\bin\Debug\MySql.Data.dll
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\Server_POI\Server_POI\obj\Debug\Server_POI.exe
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\Server_POI\Server_POI\obj\Debug\Server_POI.pdb
+C:\Users\black\Documents\1-ESCUELA\5-3\POI\Pf_POI\Server_POI\Server_POI\obj\Debug\Server_POI.csprojResolveAssemblyReference.cache
